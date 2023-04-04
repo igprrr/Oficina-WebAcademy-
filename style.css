@@ -1,0 +1,19 @@
+.header{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%; /*ou 100vw*/
+    background-color: rgb(125, 10, 125);
+}
+
+.barra-progresso {
+    width: 100%;
+    height: 12px;
+    background: #ccc;
+}
+
+#minha-barra {
+    height: 12px;
+    background-color: #c35;
+    width: 0%;
+}
